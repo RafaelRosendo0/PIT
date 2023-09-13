@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    }
+    
+    #tipodecadastro{
+        position: absolute;
+        margin-left: 32%;
+        margin-top: 6%;
+        width: 30%;
+
+    }
+    
+    button{
+       height: 30px;
+       width: 90px;
+      margin: 10px;
+      margin-left: 18px;
+      border: 1px solid black;
+      text-align: center;
+      text-decoration: none;
+     border-radius: 6px;
+    }
+
+    label{
+        font-size: 18px;
+        margin-left: 115px;
+        
+    }
+
+    button:hover{
+        color:rgba(162, 0, 255, 0.986)
+    }
+    

@@ -1,0 +1,16 @@
+*{
+box-sizing: border-box;
+}
+
+#tipodecadastro{
+    position: absolute;
+    margin-left: 32%;
+    margin-top: 4%;
+    width: 30%;
+}
+
+button{
+   height: 30px;
+   width: 80px;
+   margin-left: 37%;
+}

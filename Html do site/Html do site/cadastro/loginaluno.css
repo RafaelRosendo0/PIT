@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    }
+    
+
+
+    #tipodecadastro{
+        position: absolute;
+        margin-left: 35%;
+        margin-top: 6%;
+        width: 10%;
+    }
+    
+    button{
+       height: 30px;
+       width: 80px;
+       margin-left: 37%;
+    }
+    
+    #esqueceu{
+        
+        font-size: 11px;
+       margin-left: 195PX;
+        color: rgb(117, 130, 187);
+    }
+
+    #esqueceu:hover{
+        color: rgb(0, 47, 255);
+        border-bottom: 0.1px solid  rgb(0, 47, 255);
+    }
+
+   
